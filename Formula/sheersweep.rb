@@ -1,8 +1,8 @@
 class Sheersweep < Formula
   desc "Mac cleaner you can read: dry-run-first, never touches your real files"
   homepage "https://github.com/CVERInc/sheersweep"
-  url "https://github.com/CVERInc/sheersweep/archive/refs/tags/v0.6.0.tar.gz"
-  sha256 "65ab3547de1c7506e29e75587bb911cd323671abcdcd23f64461f5cce0e23553"
+  url "https://github.com/CVERInc/sheersweep/archive/refs/tags/v0.7.0.tar.gz"
+  sha256 "3bc521a7560727a8bb785ab149ffcc7ae2840ffedd040a30fc45ef32fb32ec3e"
   license "MIT"
 
   def install
